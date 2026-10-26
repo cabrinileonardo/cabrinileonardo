@@ -17,7 +17,8 @@ CDS views e serviços OData. Nas horas vagas desenvolvo projetos para praticar F
 | Projeto | Stack | Descrição |
 |---|---|---|
 | [zcoffee-ui5](https://github.com/cabrinileonardo/zcoffee-ui5) | SAPUI5 · OData V2 | App Fiori do ERP de cafeteria ZCOFFEE: módulos RH e MM com SmartTable e SmartFilterBar |
-| [zcoffee-abap](https://github.com/cabrinileonardo/zcoffee-abap) | ABAP · CDS · SEGW | Back-end do ZCOFFEE: cockpit SAP GUI em module pool, ALV nas 3 abordagens e serviço OData |
+| [zcoffee-abap](https://github.com/cabrinileonardo/zcoffee-abap) | ABAP · CDS · SEGW | Back-end OData do ZCOFFEE: CDS views, serviço SEGW e testes ABAP Unit |
+| [zcoffee-sapgui](https://github.com/cabrinileonardo/zcoffee-sapgui) | ABAP · ALV · Adobe Forms | v1 do ZCOFFEE em SAP GUI: cockpit em module pool e ALV nas 3 abordagens |
 | [identificador_acordes](https://github.com/cabrinileonardo/identificador_acordes) | Python · Tkinter | Identifica acordes tocados num teclado MIDI em tempo real (Feira de Profissões Uniara) |
 | [projeto-oleo](https://github.com/cabrinileonardo/projeto-oleo) | C | Sistema de captação de óleo para reciclagem (projeto de extensão) |
 | [carros_lm](https://github.com/cabrinileonardo/carros_lm) | MySQL | Modelagem do banco de uma revenda de veículos |
